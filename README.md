@@ -1,4 +1,3 @@
-# elderly-care-management-system
 1 # Project Name
 2 Elderly Care Management System
 3
