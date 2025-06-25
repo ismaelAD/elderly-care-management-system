@@ -9,6 +9,7 @@
 8 - Backend : Node.js / Express.js
 9 - Frontend : React.js (web) & React Native (mobile)
 10 - Database : PostgreSQL
+11 -
 12 - Other : Firebase Cloud Messaging (push notifications), Twilio (SMS reminders)
 13
 14 ## Features
